@@ -1,1 +1,1 @@
-export { KnowYourMemeClient } from './client';
+export { KnowYourMemeClient } from './KnowYourMemeClient';
