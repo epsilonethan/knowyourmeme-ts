@@ -1,0 +1,27 @@
+{
+  "name": "knowyourmeme-ts",
+  "version": "0.0.1",
+  "description": "A knowyourmeme api interface written in typescript",
+  "main": "dist/index.js",
+  "types": "dist/types/**.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epsilonethan/knowyourmeme-ts.git"
+  },
+  "author": "epsilonethan",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/epsilonethan/knowyourmeme-ts/issues"
+  },
+  "homepage": "https://github.com/epsilonethan/knowyourmeme-ts#readme",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
