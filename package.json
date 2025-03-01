@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "A knowyourmeme api interface written in typescript",
   "main": "dist/index.js",
-  "types": "dist/types/**.d.ts",
-  "type": "module",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"

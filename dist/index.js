@@ -1,1 +1,0 @@
-export { KnowYourMemeClient } from './KnowYourMemeClient';
