@@ -1,6 +1,6 @@
 {
   "name": "knowyourmeme-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A knowyourmeme api interface written in typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
